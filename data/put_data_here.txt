@@ -1,0 +1,3 @@
+Put data folders in here
+
+each folder should have a driving_log.csv folder and an IMG folder with .jpgs inside
