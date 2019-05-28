@@ -20,8 +20,8 @@ def nvidia_paper_model():
 
     """
 
-    model definition from the nvidia behavioural modelling paper:
-
+    model definition from the nvidia behavioural modelling paper
+    as shown in the project videos
 
     """
 
@@ -48,6 +48,7 @@ def image_generator(data_table, batch_size=32):
     """
 
     reads in the processed car logs and yields batches of e and y
+    as per batch size
     
     """
     data_dir = 'data'
